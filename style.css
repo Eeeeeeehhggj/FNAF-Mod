@@ -1,0 +1,13 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+#game-output {
+  margin-top: 20px;
+  padding: 10px;
+  border: 1px solid #ddd;
+  background-color: #f9f9f9;
+  width: 300px;
+  margin: 0 auto;
+}
